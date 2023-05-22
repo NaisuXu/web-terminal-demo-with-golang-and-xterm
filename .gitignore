@@ -1,0 +1,9 @@
+/node_modules/*
+!/node_modules/xterm
+/node_modules/xterm/*
+!/node_modules/xterm/css
+/node_modules/xterm/css/*
+!/node_modules/xterm/css/xterm.css
+!/node_modules/xterm/lib
+/node_modules/xterm/lib/*
+!/node_modules/xterm/lib/xterm.js
