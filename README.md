@@ -8,10 +8,14 @@
 
 ## 用法 / Usage
 
+下载可执行文件到服务器设备中，然后启动服务。Download the executable file to the server device, and then start the service.
+
 ```shell
 chmod +x webterminal_xxxx
 ./webterminal_xxxx
 ```
+
+在客户端浏览器中打开 `http://server_ip_address:22333/` 。Navigate your browser to `http://server_ip_address:22333/` .
 
 
 
